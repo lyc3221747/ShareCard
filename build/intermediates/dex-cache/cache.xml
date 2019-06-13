@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\AS\ShareCard-1.5.2 - brunch\app\libs\open_sdk_r5793.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="54bf962bc0730052daa0a92b1c2599c147be3f88">
+        <dex dex="F:\AS\ShareCard-1.5.2 - brunch\app\build\intermediates\pre-dexed\debug\open_sdk_r5793_c49036982264daa2b91a3531fe919d8ebedf593b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AS\ShareCard-1.5.2 - brunch\app\libs\BmobPay_UnityHelper_v1.0_170427.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c090a6c2a9093b344c980ad43b5eee80703f9257">
+        <dex dex="F:\AS\ShareCard-1.5.2 - brunch\app\build\intermediates\pre-dexed\debug\BmobPay_UnityHelper_v1.0_170427_bd543df657a8524d5fd0ea0c7fee7c75a9259612.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AS\ShareCard-1.5.2 - brunch\app\libs\rxandroid-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="927e8ef5711b115b65b2f35495d77352be2b3c09">
+        <dex dex="F:\AS\ShareCard-1.5.2 - brunch\app\build\intermediates\pre-dexed\debug\rxandroid-1.2.0_30e108f61b6c4453268fe6bc0e265532127b958c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AS\ShareCard-1.5.2 - brunch\app\libs\AMap3DMap_5.2.1_AMapNavi_5.2.0_AMapSearch_5.2.1_AMapLocation_3.4.1_20170708.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0da0a30bdb88ddb9156b4530774456ff2b97b6e7">
+        <dex dex="F:\AS\ShareCard-1.5.2 - brunch\app\build\intermediates\pre-dexed\debug\AMap3DMap_5.2.1_AMapNavi_5.2.0_AMapSearch_5.2.1_AMapLocation_3.4.1_20170708_2d41d8453823a4e3671a8af919a9e029937137c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AS\ShareCard-1.5.2 - brunch\library\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b089a0c31a819936621f9945b8617d84d2e005c6">
+        <dex dex="F:\AS\ShareCard-1.5.2 - brunch\app\build\intermediates\pre-dexed\debug\classes_8221582b3c71a70c144bcc463d79c5ba9e8cccbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AS\ShareCard-1.5.2 - brunch\app\libs\BmobPay_v3.1.1_170111.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="86d15061e5401b6fd1a7d4f2da9eeedb7d0c4617">
+        <dex dex="F:\AS\ShareCard-1.5.2 - brunch\app\build\intermediates\pre-dexed\debug\BmobPay_v3.1.1_170111_e0ec17ccd4fda05b2a8515b7672352c8b0de4a91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AS\ShareCard-1.5.2 - brunch\app\libs\gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="F:\AS\ShareCard-1.5.2 - brunch\app\build\intermediates\pre-dexed\debug\gson-2.6.2_8675d0cad1d2fd272654be3321c5137f0bc78fce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AS\ShareCard-1.5.2 - brunch\app\libs\BmobSDK_3.5.5_20170420.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5bc92744cfd1f0652327a1b1399862982b5939e">
+        <dex dex="F:\AS\ShareCard-1.5.2 - brunch\app\build\intermediates\pre-dexed\debug\BmobSDK_3.5.5_20170420_31a3ea52372020377fb41cd41918bf25023d06bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AS\ShareCard-1.5.2 - brunch\app\libs\rxjava-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="F:\AS\ShareCard-1.5.2 - brunch\app\build\intermediates\pre-dexed\debug\rxjava-1.1.6_7f7be27e71b5b290dab98348364bb4de42da56b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AS\ShareCard-1.5.2 - brunch\easy_indicator\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c41d59b51fd46599eb4ebf6238718c1286c9b331">
+        <dex dex="F:\AS\ShareCard-1.5.2 - brunch\app\build\intermediates\pre-dexed\debug\classes_a20526c78243a9f6007b0f1234e021cdfe747416.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AS\ShareCard-1.5.2 - brunch\widget\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a6982c7d9481f7841920bc2d5d124a2fe3569c3e">
+        <dex dex="F:\AS\ShareCard-1.5.2 - brunch\app\build\intermediates\pre-dexed\debug\classes_6663822cc9ac2a9225cbabded4998466982ba8b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AS\ShareCard-1.5.2 - brunch\app\libs\org.apache.http.legacy.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5320fd78dd7f154e586970d4f02befc9b58432aa">
+        <dex dex="F:\AS\ShareCard-1.5.2 - brunch\app\build\intermediates\pre-dexed\debug\org.apache.http.legacy_0ab812efdfeff713a5a2482a08476d65a586e608.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AS\ShareCard-1.5.2 - brunch\app\libs\okhttp-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="F:\AS\ShareCard-1.5.2 - brunch\app\build\intermediates\pre-dexed\debug\okhttp-3.3.1_365331e9d2620bff6d92f8fd43365308709e21e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AS\ShareCard-1.5.2 - brunch\app\libs\mta-sdk-1.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="F:\AS\ShareCard-1.5.2 - brunch\app\build\intermediates\pre-dexed\debug\mta-sdk-1.6.2_b9529d0e4a9035a5f429a60b487910f654238ae7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AS\ShareCard-1.5.2 - brunch\app\libs\okio-1.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1dc44f4cec20a64cebb68b90b4218f82ac7948b1">
+        <dex dex="F:\AS\ShareCard-1.5.2 - brunch\app\build\intermediates\pre-dexed\debug\okio-1.7.0_5977990dcd38535ba01ce21003fff8b7d98cdae2.jar" />
+    </item>
+
+</items>

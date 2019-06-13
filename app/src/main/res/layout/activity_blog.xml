@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <com.luck.indicator.EasyIndicator
+        android:id="@+id/easy_indicator"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:indicator_bottom_height="3dp"
+        app:indicator_bottom_line_color="@color/colorGray"
+        app:indicator_bottom_line_height="1dp"
+        app:indicator_height="42dp"
+        app:indicator_isBottom_line="true"
+        app:indicator_line_color="@color/ThemeColor"
+        app:indicator_normal_color="@color/colorGray"
+        app:indicator_selected_color="@color/ThemeColor"
+        app:indicator_textSize="16sp"
+        app:indicator_vertical_line_w="1dp"
+        app:indicator_vertical_line_color="@android:color/white"
+        app:indicator_vertical_line_h="20dp"
+        app:indicator_width="0dp"
+        android:layout_marginLeft="10sp"
+        android:layout_marginRight="10sp"/>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>

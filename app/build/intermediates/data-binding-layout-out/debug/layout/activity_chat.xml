@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40sp"
+        android:background="#FFFFFF"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/list_elec_back"
+            android:layout_width="26sp"
+            android:layout_height="26sp"
+            android:layout_marginTop="6sp"
+            android:background="@drawable/ic_chevron_left_black_24dp"/>
+
+        <RelativeLayout
+            android:layout_width="0sp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="26sp"
+            android:layout_weight="1">
+
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="9sp"
+                android:text="陌陌"
+                android:textSize="20sp" />
+        </RelativeLayout>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@color/gray">
+        <ImageView
+            android:id="@+id/chat_image"
+            android:layout_width="75sp"
+            android:layout_height="75sp"
+            android:src="@drawable/ic_wechat"
+            android:padding="7sp"/>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:padding="5sp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="北疆饭店优惠券(正荣店)"
+                android:textSize="14sp"
+                android:layout_marginTop="2sp"
+                android:textColor="#000000"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="￥10"
+                android:layout_marginTop="5sp"
+                android:textSize="14sp"
+                android:textColor="#000000"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5sp"
+                android:text="约前聊一聊"
+                android:textSize="12sp"
+                />
+        </LinearLayout>
+        <Button
+            android:layout_marginTop="30sp"
+            android:layout_marginRight="5sp"
+            android:layout_width="90sp"
+            android:layout_height="30sp"
+            android:text="立即约卡"
+            android:textSize="14sp"
+            android:background="@color/ThemeColor"/>
+    </LinearLayout>
+
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"></View>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        android:orientation="horizontal">
+        <ImageView
+            android:layout_width="40sp"
+            android:layout_height="40sp"
+            android:src="@drawable/chat_mic"
+            android:padding="5sp"/>
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="约前聊一聊"
+            android:paddingTop="10sp"/>
+        <ImageView
+            android:layout_width="40sp"
+            android:layout_height="40sp"
+            android:src="@drawable/chat_face"
+            android:padding="5sp"/>
+    </LinearLayout>
+
+
+</LinearLayout>
